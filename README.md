@@ -14,6 +14,16 @@ Table names must use the standard naming convention:
 $  npm install serverless-copy-stack-tables
 ```
 
+#### Add plugin to serverless.yml
+
+```yml
+  ..
+plugins:
+  - serverless-copy-stack-tables
+  ..
+  ```
+
+
 #### Usage in command prompt
 
 ```bash
