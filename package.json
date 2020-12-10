@@ -1,6 +1,6 @@
 {
   "name": "serverless-copy-stack-tables",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Serverless plugin to copy all dynamodb tables in AWS stack from one stage to another",
   "main": "dist",
   "scripts": {
@@ -15,7 +15,7 @@
     "dynamodb",
     "copy"
   ],
-  "author": "Peter Skoldebring <peter@islandinteractive.io>",
+  "author": "P Seldebrings <p.seldebringas@gmail.com>",
   "license": " MIT",
   "repository": {
     "type": "git",
