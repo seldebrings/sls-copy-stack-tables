@@ -19,7 +19,7 @@
   "license": " MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seldebrings/serverless-copy-stack-tables.git"
+    "url": "git+https://github.com/staccked/serverless-copy-stack-tables.git"
   },
   "dependencies": {
     "aws-sdk": "^2.351.0"
